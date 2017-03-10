@@ -9,3 +9,4 @@ RUN npm install
 
 EXPOSE 8077
 CMD node ./node_modules/.bin/http-server node_modules/http-server -p 8077
+
